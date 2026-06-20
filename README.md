@@ -1,31 +1,63 @@
-# Miya Nayoa: Tormenta Morada
+# Miya Nayoa: Purple Storm
 
-Mini demo web bullet hell de **Miya Nayoa**.
+A small web bullet hell demo starring **Miya Nayoa**.
 
-## Cómo jugar
+---
 
-Cuando el archivo `index.html` esté subido al repositorio, el juego podrá publicarse con GitHub Pages.
+## English
+
+### How to Play
+
+Open `index.html` in your browser, or play it through GitHub Pages once the page is enabled.
+
+### Controls
+
+- **WASD / Arrow Keys**: Move
+- **Z / Space**: Shoot
+- **Shift**: Focus / slow movement
+- **X**: Bomb
+- **P**: Pause
+
+### Status
+
+Playable web prototype in development.
+
+---
+
+## Español
+
+### Cómo jugar
+
+Abre `index.html` en tu navegador, o juega desde GitHub Pages cuando la página esté activada.
 
 ### Controles
 
-- **WASD / Flechas**: mover
-- **Z / Espacio**: disparar
-- **Shift**: movimiento lento / precisión
-- **X**: bomba
-- **P**: pausa
+- **WASD / Flechas**: Mover
+- **Z / Espacio**: Disparar
+- **Shift**: Precisión / movimiento lento
+- **X**: Bomba
+- **P**: Pausa
 
-## Estado del proyecto
+### Estado
 
 Prototipo web jugable en desarrollo.
 
-## Derechos y uso
+---
 
-Este proyecto se publica únicamente para visualización, prueba y juego de la demo.
+## Français
 
-**Miya Nayoa**, **Kiana Volskaya**, **Volskaya-Verse**, diseños de personajes, lore, música, arte, sprites, nombres, logos y assets relacionados son obras originales propietarias. Todos los derechos reservados.
+### Comment jouer
 
-No se concede permiso para copiar, redistribuir, vender, modificar, resubir, entrenar IA con, ni crear obras derivadas de los personajes, arte, música, lore o assets sin autorización escrita del autor.
+Ouvre `index.html` dans ton navigateur, ou joue via GitHub Pages lorsque la page sera activée.
 
-El código fuente también queda bajo **All Rights Reserved**, salvo que se indique una licencia escrita separada.
+### Contrôles
 
-© 2026 Alexander Volski / Volskaya. All rights reserved.
+- **WASD / Flèches** : Se déplacer
+- **Z / Espace** : Tirer
+- **Shift** : Focus / déplacement lent
+- **X** : Bombe
+- **P** : Pause
+
+### Statut
+
+Prototype web jouable en développement.
