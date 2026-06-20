@@ -1,0 +1,15 @@
+MIYA NAYOA: TORMENTA MORADA - DEMO WEB
+
+Cómo jugar:
+1. Descomprime este ZIP.
+2. Abre el archivo index.html con Chrome, Edge, Opera o Firefox.
+3. Dale click a JUGAR.
+4. Controles:
+   - WASD / Flechas: mover
+   - Z / Espacio: disparar
+   - Shift: movimiento lento
+   - X: bomba
+   - P: pausa
+
+Nota:
+El juego funciona sin instalar nada. Solo abre index.html en un navegador.
